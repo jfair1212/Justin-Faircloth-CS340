@@ -1,1 +1,5 @@
 # Justin-Faircloth-CS340
+
+1. This project helped me build proficiency in using OpenGL to build and render 3D scenes. By no means am I an expert now, but I now know how to load shapes, adjust their size and placement, as well as put textures on them and how to add and manipulate light sources. These are all things I didn't know beforehand and now I have those skills ready when I do something like this again.
+2. In this project, I found it useful to focus on one aspect at a time. First, I made the shapes and placed them. Then, I simply worried about putting the textures on them and making them look right. Finally, I applied the light, placed it, and then I programmed the way my objects reacted to the light.
+3. Like I mentioned before, the skills of loading and rendering shapes, applying textures to them, and creating and placing lighting was all new to me. These skills prepare me for the event that I ever have to do anything that involves rendering scenes, even if it doesn't take place in OpenGL. The class taught me valuable general knowledge and ways of thinking special to 3D rendering that can be used across libraries and programs.
